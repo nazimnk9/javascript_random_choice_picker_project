@@ -26,7 +26,6 @@ function createTags(input){
         tagElement.classList.add("tag");
         tagElement.innerText = tag;
         tagsElement.appendChild(tagElement);
-
     });
 }
 
